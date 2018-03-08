@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.0 (April 21, 2017)
+# v1.0.0 (April 21, 2017)
 
 Initial release.
 
